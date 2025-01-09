@@ -9,7 +9,7 @@
 
 - 💞️ I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **arunkumar069@example.com**
+- 📫 How to reach me **arun00kumar069@gmail.com**
 
 - 😄 Pronouns: **He/Him**
 
@@ -31,17 +31,26 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://greensock.com/gsap/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gsap/gsap-original.svg" alt="gsap" width="40" height="40"/> </a> 
+<a href="https://wordpress.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> </a> 
+<a href="https://threejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> </a> 
+<a href="https://material-ui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumar069&show_icons=true&locale=en&layout=compact" alt="arunkumar069" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumar069&show_icons=true&locale=en&layout=compact&theme=dark" alt="arunkumar069" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkumar069&show_icons=true&locale=en" alt="arunkumar069" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkumar069&show_icons=true&locale=en&theme=dark" alt="arunkumar069" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar069&" alt="arunkumar069" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumar069&theme=dark" alt="arunkumar069" /></p>
 
-<!---
-ARUNKUMAR069/ARUNKUMAR069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=arunkumar069&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arunkumar069&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies">
+</p>
